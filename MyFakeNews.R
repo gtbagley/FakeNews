@@ -172,4 +172,4 @@ preds <- predict(boost1, newdata=fn.test)
 
 predframe <- data.frame(id=fn.test$Id, label=preds)
 
-write.csv(x=predframe,file="./fake-news/fakenewscaps.csv", row.names=FALSE)
+write.csv(x=predframe,file="./fake-news/fakenews.csv", row.names=FALSE)
