@@ -1,4 +1,4 @@
-##Cleaning fake news data, modeling, and generating predictions
+##Cleaning fake news data, modeling using xgboost, and generating predictions
 
 ##The first portion of the code is basically that of MJHeaton, used for cleaning generating necessary variables for language processing
 ## Libraries
